@@ -74,7 +74,7 @@ Stresstest-Szenarien, Risikoabschätzung bei Volatilität
 
 ### Colab Link
 
-[Notebook in Google Colab öffnen]([https://colab.research.google.com/drive/1i8kx9TC85KdfQxr9CVZ7npHB_W6yqADM](https://colab.research.google.com/drive/1i8kx9TC85KdfQxr9CVZ7npHB_W6yqADM))
+[Notebook in Google Colab öffnen]([(https://colab.research.google.com/drive/1i8kx9TC85KdfQxr9CVZ7npHB_W6yqADM))
 
 ### Python-Bibliotheken
 
