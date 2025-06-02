@@ -72,8 +72,15 @@ Stresstest-Szenarien, Risikoabschätzung bei Volatilität
 - Python 3.11 oder höher
 - Jupyter Notebook oder JupyterLab
 
+### Colab Link
+
+[Notebook in Google Colab öffnen](https://drive.google.com/file/d/1i8kx9TC85KdfQxr9CVZ7npHB_W6yqADM/view?usp=drive_link)
+
 ### Python-Bibliotheken
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly statsmodels
+pip install pandas numpy matplotlib seaborn plotly statsmodels 
+
+
+
 
