@@ -76,3 +76,9 @@ Stresstest-Szenarien, Risikoabschätzung bei Volatilität
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly statsmodels
+
+### Colab Link
+
+[https://drive.google.com/file/d/1i8kx9TC85KdfQxr9CVZ7npHB_W6yqADM/view?usp=drive_link](https://drive.google.com/file/d/1i8kx9TC85KdfQxr9CVZ7npHB_W6yqADM/view?usp=drive_link)
+
+
