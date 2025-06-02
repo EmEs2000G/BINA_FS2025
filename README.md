@@ -72,9 +72,10 @@ Stresstest-Szenarien, Risikoabschätzung bei Volatilität
 - Python 3.11 oder höher
 - Jupyter Notebook oder JupyterLab
 
-### Colab Link
+### Notebook öffnen
 
 [Notebook in Google Colab öffnen](https://colab.research.google.com/drive/1i8kx9TC85KdfQxr9CVZ7npHB_W6yqADM)
+
 
 ### Python-Bibliotheken
 
